@@ -7,7 +7,7 @@ This is the repository we will all fork and work on. We will provide you with sa
 
 https://koding.com/Hackathon
 
-AWESOME TEAMS!
+AWESOME TEAMS!!
 ==============
 
 Edit this file and fill in the information about you and your team.
